@@ -1,0 +1,13 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+section{
+	text-align:center;
+	display: none;
+	width: 1020px;
+	height: 35px;
+	background-color: #E6E6E6;
+	}
