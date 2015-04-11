@@ -1,0 +1,50 @@
+section{
+  display:none;
+  height: 40px;
+  background-color: #58D3F7;
+  color: white;
+  text-align: center;
+  padding: 25px;
+  margin: 10px 10px 10px 10px;
+  border-radius: 20px;
+}
+
+#btn1{
+  margin-top: 5px;
+	width: 200px;
+	height: 50px;
+  font-size: 15px;
+}
+
+div{
+  width: 200px;
+	height: 50px;
+  margin: 0 auto;
+}
+
+.alias{
+  width: 200px;
+  height: 20px;
+  font-size: 20px;
+}
+
+p{
+  text-align: center;
+  font-size: 30px;
+}
+.tweets{
+  font-size: 17px;
+  color: black;
+  float: right;
+  width: 500px;
+  height: 100%;
+  border: 5px solid gray;
+  background-color: rgba(136,231,252,0.4)  ;
+}
+#btn2{
+  font-size: 15px;
+  width: 200px;
+  color: white;
+  margin-bottom: 5px;
+  background-color: #3BB9FF;
+}
